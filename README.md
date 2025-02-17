@@ -69,7 +69,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="kummo99@naver.com">
+  <a href="mailto:kummo99@naver.com">
     <img
       src="https://img.shields.io/badge/kummo99@naver.com-7AC943?style=for-the-badge&logo=naver&logoColor=1EC800"/>&nbsp
   </a>
