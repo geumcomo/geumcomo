@@ -75,8 +75,15 @@
   </a>
 </div>
 
-<!--GitHub Stats Card-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geumcomo&show_icons=true&theme=radical)
+<br><br>
 
-<!--Top Languages Card-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geumcomo&layout=compact)
+<div style="display: flex; justify-content: space-between;">
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=geumcomo&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="width: 48%;">
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geumcomo&layout=compact" alt="Top Langs" style="width: 48%;">
+
+</div>
+
