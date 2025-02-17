@@ -74,3 +74,9 @@
       src="https://img.shields.io/badge/kummo99@naver.com-7AC943?style=for-the-badge&logo=naver&logoColor=1EC800"/>&nbsp
   </a>
 </div>
+
+<!--GitHub Stats Card-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geumcomo&show_icons=true&theme=radical)
+
+<!--Top Languages Card-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geumcomo&layout=compact)
