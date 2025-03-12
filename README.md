@@ -1,38 +1,13 @@
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?text=I%20am%20geumcomo&type=venom&animation=fadeIn&height=160)
+![header](https://capsule-render.vercel.app/api?text=geumcomo,%20World!&type=venom&animation=fadeIn&height=160)
 
 <!--내용 부분-->
-<h3 align="center">📚 Experience 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/JSP-FF5722?style=for-the-badge" />&nbsp
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JAVA-F8981D?style=for-the-badge"/>&nbsp
-  <img src="https://img.shields.io/badge/Spring-282c34?style=for-the-badge&logo=spring&logoColor=6DB33F"/>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-1A1A1A?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>&nbsp
-  <img src="https://img.shields.io/badge/JPA-6A1B9A?style=for-the-badge"/>&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-F0F0F0?style=for-the-badge&logo=mysql&logoColor=#00758F" />&nbsp
-  <img src="https://img.shields.io/badge/MyBatis-0A8E10?style=for-the-badge" />&nbsp
-</div>
-
-<br>
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JAVA-F8981D?style=for-the-badge"/>&nbsp
+  <img src="https://img.shields.io/badge/MySQL-F0F0F0?style=for-the-badge&logo=mysql&logoColor=#00758F" />&nbsp
+  <img src="https://img.shields.io/badge/MyBatis-0A8E10?style=for-the-badge" />&nbsp
+  </br>
   <img src="https://img.shields.io/badge/Spring-282c34?style=for-the-badge&logo=spring&logoColor=6DB33F"/>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-1A1A1A?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>&nbsp
   <img src="https://img.shields.io/badge/JPA-6A1B9A?style=for-the-badge&logoColor=2C3E50"/>&nbsp
