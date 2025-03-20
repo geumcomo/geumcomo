@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/JPA-6A1B9A?style=for-the-badge&logoColor=2C3E50"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Docker-1E4C88?style=for-the-badge&logo=docker&logoColor=0db7ed"/>&nbsp
-  <img src="https://img.shields.io/badge/Kubernetes-5A67D88?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>&nbsp
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=FFFFFF"/>&nbsp
 </div>
 
